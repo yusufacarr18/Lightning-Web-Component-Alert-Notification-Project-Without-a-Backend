@@ -27,10 +27,12 @@ If the **EventStartTime__c** value is equal to the current day and has not yet p
 As a first step, we create and deploy our folder that will consist of **javaScript, html and metadata** files. We don’t need **css** file for this project.
 
 
+<br>
+<br>
 
 ![Data Object Model](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/dataObjectModel.png)
 
-  Data Object Model
+        Data Object Model
 
 <br>
 <br>
