@@ -29,6 +29,7 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 
 
 ![Data Object Model](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/dataObjectModel.png)
+
  Data Object Model
 
 
@@ -66,11 +67,12 @@ We do not need to make any additions to our html file for pop up development, we
 
 
 <br>
+<br>
 
 In the javascript file, we first import the necessary content.
 
 <br>
-
+<br>
 
 •	**import { api, LightningElement, wire } :**
         module allows us to use the features belonging to lwc
@@ -84,9 +86,11 @@ In the javascript file, we first import the necessary content.
 
 
 <br>
+<br>
 
 Secondly, we will define the variables.
 
+<br>
 <br>
 
 
@@ -104,9 +108,11 @@ Secondly, we will define the variables.
 
 
 <br>
+<br>
 
 Thirdly, we will define methods.
 
+<br>
 <br>
 
 
