@@ -31,7 +31,8 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 <br>
 
 ![Data Object Model](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/dataObjectModel.png)
- Data Object Model
+ 
+Data Object Model
 
 <br>
 <br>
