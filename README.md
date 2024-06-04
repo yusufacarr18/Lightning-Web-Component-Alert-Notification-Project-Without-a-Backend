@@ -1,6 +1,6 @@
-![Pop-up Gif](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Without-a-Backend/blob/main/images/pop-up.gif)
+![Pop-up Gif](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/pop-up.gif)
 
-# Lightning-Web-Component-Alert-Notification-Without-a-Backend
+# Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend
  LWC notification alert project only fronted development
 
 
