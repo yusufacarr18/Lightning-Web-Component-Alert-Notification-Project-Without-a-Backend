@@ -34,7 +34,7 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 
 
 
-![Creating New LWC Folder](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/creatingNewLwcFolder.png)
+![Creating New LWC Folder](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/creatingNewLwcFolder.png)
  Creating New LWC Folder
 
 
@@ -43,7 +43,7 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 
 
 
-![HTML File](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/htmlFile.png)
+![HTML File](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/htmlFile.png)
 
 
 
@@ -55,11 +55,11 @@ We do not need to make any additions to our html file for pop up development, we
 
 
 
-![JS File 1](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/jsFile1.png)
+![JS File 1](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/jsFile1.png)
 
 
 
-![JS File 2](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/jsFile2.png)
+![JS File 2](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/jsFile2.png)
 
 
 
@@ -122,7 +122,7 @@ Thirdly, we will define methods.
 
 
 
-![Metadata File](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/metadataFile.png)
+![Metadata File](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/metadataFile.png)
 
 
 
@@ -141,7 +141,7 @@ Our development is ready, there is one last step left for us to see the notifica
 
 
 
-![Edit Page](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/editPage.gif)
+![Edit Page](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/editPage.gif)
 Adding Component to Record Page
 
 
