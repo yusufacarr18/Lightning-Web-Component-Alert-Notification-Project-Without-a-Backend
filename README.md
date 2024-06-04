@@ -18,7 +18,6 @@ Now only **LWC** is enough!
 
 
 In this study, we will develop a pop-up display according to **EventStartTime__c** custom dateTime field on the current record page. We will manage all the work with **LWC** without any help from **Apex**.
-<br>
 
 
 If the **EventStartTime__c** value is equal to the current day and has not yet passed the hour, we display this notification on the screen.
@@ -39,7 +38,9 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 
 
 <br>
+
 ## 1-) HTML File
+
 <br>
 
 
@@ -51,7 +52,9 @@ We do not need to make any additions to our html file for pop up development, we
 
 
 <br>
+
 ## 2-) JavaScript File
+
 <br>
 
 
@@ -63,7 +66,9 @@ We do not need to make any additions to our html file for pop up development, we
 
 
 <br>
+
 In the javascript file, we first import the necessary content.
+
 <br>
 
 
@@ -79,7 +84,9 @@ In the javascript file, we first import the necessary content.
 
 
 <br>
+
 Secondly, we will define the variables.
+
 <br>
 
 
@@ -97,7 +104,9 @@ Secondly, we will define the variables.
 
 
 <br>
+
 Thirdly, we will define methods.
+
 <br>
 
 
@@ -118,7 +127,9 @@ Thirdly, we will define methods.
 
 
 <br>
+
 ## 3-) Metadata File
+
 <br>
 
 
@@ -131,7 +142,9 @@ In order to use the component in the record page, we update the target and isExp
 
 
 <br>
+
 ## 4-) Adding the component on the Record Page
+
 <br>
 
 
@@ -154,8 +167,11 @@ Go to the page of any record, open the edit page screen and type the name of the
 
 
 <br>
+
 ## Summary
+
 <br>
+
 > [!NOTE]
 > In this article, we examined an LWC development that allows us to output a Alert notification on a record page. It was a development that allows us to work only on the frontend side without having a backend side.
 
