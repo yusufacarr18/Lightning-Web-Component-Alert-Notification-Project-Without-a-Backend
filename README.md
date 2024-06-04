@@ -30,8 +30,10 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 
 ![Data Object Model](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/dataObjectModel.png)
 
- Data Object Model
+  Data Object Model
 
+<br>
+<br>
 
 
 ![Creating New LWC Folder](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/creatingNewLwcFolder.png)
