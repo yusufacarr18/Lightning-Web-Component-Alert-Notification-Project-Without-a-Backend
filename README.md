@@ -76,7 +76,6 @@ We do not need to make any additions to our html file for pop up development, we
 In the javascript file, we first import the necessary content.
 
 <br>
-<br>
 
 •	**import { api, LightningElement, wire } :**
         module allows us to use the features belonging to lwc
@@ -94,7 +93,6 @@ In the javascript file, we first import the necessary content.
 
 Secondly, we will define the variables.
 
-<br>
 <br>
 
 
@@ -116,7 +114,6 @@ Secondly, we will define the variables.
 
 Thirdly, we will define methods.
 
-<br>
 <br>
 
 
