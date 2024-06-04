@@ -18,7 +18,7 @@ Now only **LWC** is enough!
 
 
 In this study, we will develop a pop-up display according to **EventStartTime__c** custom dateTime field on the current record page. We will manage all the work with **LWC** without any help from **Apex**.
-
+<br>
 
 
 If the **EventStartTime__c** value is equal to the current day and has not yet passed the hour, we display this notification on the screen.
@@ -29,7 +29,7 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 
 
 
-![Data Object Model](https://github.com/yusufacarr18/Lightning-Web-Component-Popup-Notification-Without-a-Backend/blob/main/images/dataObjectModel.png)
+![Data Object Model](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/dataObjectModel.png)
  Data Object Model
 
 
@@ -38,9 +38,9 @@ As a first step, we create and deploy our folder that will consist of **javaScri
  Creating New LWC Folder
 
 
-
+<br>
 ## 1-) HTML File
-
+<br>
 
 
 ![HTML File](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/htmlFile.png)
@@ -50,9 +50,9 @@ As a first step, we create and deploy our folder that will consist of **javaScri
 We do not need to make any additions to our html file for pop up development, we can leave it as it was created.
 
 
-
+<br>
 ## 2-) JavaScript File
-
+<br>
 
 
 ![JS File 1](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/jsFile1.png)
@@ -62,9 +62,9 @@ We do not need to make any additions to our html file for pop up development, we
 ![JS File 2](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/jsFile2.png)
 
 
-
+<br>
 In the javascript file, we first import the necessary content.
-
+<br>
 
 
 •	**import { api, LightningElement, wire } :**
@@ -78,9 +78,9 @@ In the javascript file, we first import the necessary content.
         This module is used to display short-lived notifications to the user. Commonly known as **“toast”** messages in the Salesforce user interface, they are used to provide instant feedback about operations.
 
 
-
+<br>
 Secondly, we will define the variables.
-
+<br>
 
 
 •	**recordId:** Related record Id
@@ -96,9 +96,9 @@ Secondly, we will define the variables.
 •	**currentTime:** Showing current time part like “13:00”
 
 
-
+<br>
 Thirdly, we will define methods.
-
+<br>
 
 
 •	**eventMeetingRecord Method :**
@@ -117,9 +117,9 @@ Thirdly, we will define methods.
         The parseDateTime method takes a date and time string in the format **dd/mm/yyyy**, hh:mm and converts it into a **JavaScript Date** object.
 
 
-
+<br>
 ## 3-) Metadata File
-
+<br>
 
 
 ![Metadata File](https://github.com/yusufacarr18/Lightning-Web-Component-Alert-Notification-Project-Without-a-Backend/blob/main/images/metadataFile.png)
@@ -130,9 +130,9 @@ In order to use the component in the record page, we update the target and isExp
 
 
 
-
+<br>
 ## 4-) Adding the component on the Record Page
-
+<br>
 
 
 
@@ -153,9 +153,9 @@ Go to the page of any record, open the edit page screen and type the name of the
 
 
 
-
+<br>
 ## Summary
-
+<br>
 > [!NOTE]
 > In this article, we examined an LWC development that allows us to output a Alert notification on a record page. It was a development that allows us to work only on the frontend side without having a backend side.
 
